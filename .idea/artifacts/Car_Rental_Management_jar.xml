@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Car Rental Management:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Car_Rental_Management_jar</output-path>
+    <root id="archive" name="Car Rental Management.jar">
+      <element id="module-output" name="Car Rental Management" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Desktop/jcalendar-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
